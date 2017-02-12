@@ -29,9 +29,6 @@ public class LittleHackerThatCould {
 			System.out.println("(even though you’re my own conscience?) -cries-");
 			delay(1000);
 		}
-		//input.close();
-		
-		// Elementary school
 		System.out.println("It all started in elementary school... ");
 		delay(1000);
 		System.out.println("It’s my first day of fifth grade and I couldn’t be more happier!");
@@ -61,7 +58,7 @@ public class LittleHackerThatCould {
 		System.out.println("Wanna know why?");
 		
 		//Scanner input1 = new Scanner(System.in); 
-		System.out.println("Please type in 'yes' or 'no'. (capitalization matters): ");
+		System.out.println("Please type in 'yes' or 'no': ");
 		String answer1 = input.nextLine();
 		delay(1000);
 		System.out.println("Your answer is " + answer1 + ".");
@@ -130,35 +127,81 @@ public class LittleHackerThatCould {
 		delay(1000);
 		
 		System.out.println("Are girls not supposed to do things like this?");
+		delay(1000);
 		System.out.println("[Don’t listen to him! Remember, you do what you want!] or [I think he’s right]")
-		System.out.printfln("(Type in 1 for the first option or 2 for the second option.)");
-		
-		if()
-		{
-			System.out.println("Oh.");
+		delay(1000);
+		System.out.printfln("Type in 'one' for the first option or 'two' for the second option: ");
+		delay(1000);
+		String answer2 = input.nextLine();
+		delay(1000);
+		System.out.println("Your answer is " + answer2 + ".");
+		delay(1000);
+		if (answer2.toLowerCase().equals("one")) {
+			System.out.println("Yeah.");
+			delay(1000);
+			System.out.println("Yeah you’re right!");
+			delay(1000);
+			System.out.println("I know exactly what to say to him for saying that! ");
+			delay(1000);
+			System.out.println("Robbie?");
+			delay(1000);
+			System.out.println("Not only are you a moron,");
+			delay(1000);
+			System.out.println("Your ideas about me are full of joanie baloney macaron");
+			delay(1000);
+			System.out.println("'What does that even mean?!'");
+			delay(1000);
+			System.out.println("Your mom.");
 			delay(1000);
 		}
 		else
 		{
-			
+		System.out.println("Well... I guess he's right.");
+		delay(1000);
+		System.out.println("I remember that one time I had to do an essay and the school library's computer hated me..");
+		delay(1000);
+		System.out.println("It didn't let me do a single thing!");
+		delay(1000);
+		System.out.println("So, after that time, I hated the dang thing.");
+		delay(1000);
+		System.out.println("Then again I tell myself that to make me feel better about me napping in front of the computer.");
+		delay(1000);
 		}
 		
+		System.out.println("“Line up children! It’s time for recess!”");
+		delay(1000);
+		System.out.println("“Robbie! It’s your turn to be the line leader.”");
+		delay(1000);
+		System.out.println("Hey, I just realized something.");
+		delay(1000);
+		System.out.println("Mr.Hill always chooses boys to be line leaders eevveerrryyy year.");
+		delay(1000);
+		System.out.println("My friends tell me that a lot.");
+		delay(1000);
+		System.out.println("Should I say something?");
 		
-		
-		
-		System.out.println("");
+		String answer3 = input.nextLine();
 		delay(1000);
-		System.out.println("");
+		System.out.println("Your answer is " + answer3 + ".");
 		delay(1000);
-		System.out.println("");
+		if (answer3.toLowerCase().equals("yes")) {
+		System.out.println("Teacher!");
 		delay(1000);
-		System.out.println("");
+		System.out.println("Can I be the line leader this time?");
 		delay(1000);
-		System.out.println("");
+		System.out.println("“Oh, I didn’t realize that you wanted to be a line leader."");
 		delay(1000);
-		System.out.println("");
+		System.out.println("“Sorry, Robbie, next week you’ll be line leader.””);
 		delay(1000);
-		System.out.println("");
+		System.out.println("Yippy! I've never lead anything in my life!”);
+		}
+		else {
+		System.out.println("If you say so...");
+		delay(1000);
+		System.out.println("But I do have a question.");
+		delay(1000);
+		System.out.println("Why does it have to be dingleweed Robbie?");
+		}
 		delay(1000);
 		System.out.println("");
 		delay(1000);
