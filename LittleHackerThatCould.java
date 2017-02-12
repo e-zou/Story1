@@ -29,7 +29,7 @@ public class LittleHackerThatCould {
 			System.out.println("(even though you’re my own conscience?) -cries-");
 			delay(1000);
 		}
-		
+		//input.close();
 		
 		// Elementary school
 		System.out.println("It all started in elementary school... ");
@@ -59,8 +59,9 @@ public class LittleHackerThatCould {
 		System.out.println("You know I named one of the cats Spot?");
 		delay(1000);
 		System.out.println("Wanna know why?");
-		 
-		System.out.println("Please type in 'yes' or 'no': ");
+		
+		//Scanner input1 = new Scanner(System.in); 
+		System.out.println("Please type in 'yes' or 'no'. (capitalization matters): ");
 		String answer1 = input.nextLine();
 		delay(1000);
 		System.out.println("Your answer is " + answer1 + ".");
@@ -82,7 +83,7 @@ public class LittleHackerThatCould {
 			delay(1000);
 		}
 		
-		// Going to class
+		
 		System.out.println("Whew!");
 		delay(1000);
 		System.out.println("Almost came late to class!");
@@ -90,11 +91,84 @@ public class LittleHackerThatCould {
 		System.out.println("Luckily I ran and the 'pits' didn't stop me.");
 		delay(1000);
 		System.out.println("I'm faster than the speed of light!");
+		
+		System.out.println("[I don’t think that’s scientifically possible] or [You’re much faster than that]");
+		System.out.printfln("(Type in 1 for the first option or 2 for the second option.)");
+		
+		if()
+		{
+			System.out.println("Of course I am! ");
+			delay(1000);
+			System.out.println("How else do I get to class so early even though I sleep so much?");
+			delay(1000);
+		}
+		else
+		{
+			System.out.println("Sure it is!");
+			delay(1000);
+			System.out.println("Anything is possible if you just believe!");
+			delay(1000);
+			System.out.println("My daddy told me that");
+			delay(1000);
+		}
+		
+		System.out.println("Oh!");
+		delay(1000);
+		System.out.println("We’re learning how to program today!");
+		delay(1000);
+	 	System.out.println("Robbie! We get to learn how to code today!");
+		delay(1000);
+		System.out.println("“Yeah, you suuuurrreeee you’re able to handle that?”");
+		delay(1000);
+		System.out.println("What do you mean? If I can handle the free lunch, I can handle ANYTHING!");
+		delay(1000);
+		System.out.println("“I don’t know.”");
+		delay(1000);
+		System.out.println("“You are a girl.”");
+		delay(1000);
+		System.out.println("Oh.");
+		delay(1000);
+		
+		System.out.println("Are girls not supposed to do things like this?");
+		System.out.println("[Don’t listen to him! Remember, you do what you want!] or [I think he’s right]")
+		System.out.printfln("(Type in 1 for the first option or 2 for the second option.)");
+		
+		if()
+		{
+			System.out.println("Oh.");
+			delay(1000);
+		}
+		else
+		{
+			
+		}
+		
+		
+		
+		
+		System.out.println("");
+		delay(1000);
+		System.out.println("");
 		delay(1000);
 		System.out.println("");
 		delay(1000);
 		System.out.println("");
-	 	
+		delay(1000);
+		System.out.println("");
+		delay(1000);
+		System.out.println("");
+		delay(1000);
+		System.out.println("");
+		delay(1000);
+		System.out.println("");
+		delay(1000);
+	
+	
+	
+	
+	
+	
+	
 	
 	input.close();
 	}
