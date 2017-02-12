@@ -90,9 +90,12 @@ public class LittleHackerThatCould {
 		System.out.println("I'm faster than the speed of light!");
 		
 		System.out.println("[I don’t think that’s scientifically possible] or [You’re much faster than that]");
-		System.out.printfln("(Type in 1 for the first option or 2 for the second option.)");
-		
-		if()
+		System.out.println("Type in 'one' for the first option or 2 for the second option.");
+		String answer2 = input.nextLine();
+		delay(1000);
+		System.out.println("Your answer is " + answer2 + ".");
+		delay(1000);
+		if(answer2.toLowerCase().equals("one"))
 		{
 			System.out.println("Of course I am! ");
 			delay(1000);
@@ -128,15 +131,15 @@ public class LittleHackerThatCould {
 		
 		System.out.println("Are girls not supposed to do things like this?");
 		delay(1000);
-		System.out.println("[Don’t listen to him! Remember, you do what you want!] or [I think he’s right]")
+		System.out.println("[Don’t listen to him! Remember, you do what you want!] or [I think he’s right]");
 		delay(1000);
-		System.out.printfln("Type in 'one' for the first option or 'two' for the second option: ");
+		System.out.println("Type in 'one' for the first option or 'two' for the second option: ");
 		delay(1000);
-		String answer2 = input.nextLine();
+		String answer3 = input.nextLine();
 		delay(1000);
-		System.out.println("Your answer is " + answer2 + ".");
+		System.out.println("Your answer is " + answer3 + ".");
 		delay(1000);
-		if (answer2.toLowerCase().equals("one")) {
+		if (answer3.toLowerCase().equals("one")) {
 			System.out.println("Yeah.");
 			delay(1000);
 			System.out.println("Yeah you’re right!");
@@ -178,22 +181,22 @@ public class LittleHackerThatCould {
 		delay(1000);
 		System.out.println("My friends tell me that a lot.");
 		delay(1000);
-		System.out.println("Should I say something?");
+		System.out.println("Should I say something? Enter 'yes' or 'no': ");
 		
-		String answer3 = input.nextLine();
+		String answer4 = input.nextLine();
 		delay(1000);
-		System.out.println("Your answer is " + answer3 + ".");
+		System.out.println("Your answer is " + answer4 + ".");
 		delay(1000);
-		if (answer3.toLowerCase().equals("yes")) {
+		if (answer4.toLowerCase().equals("yes")) {
 		System.out.println("Teacher!");
 		delay(1000);
 		System.out.println("Can I be the line leader this time?");
 		delay(1000);
-		System.out.println("“Oh, I didn’t realize that you wanted to be a line leader."");
+		System.out.println("'Oh, I didn’t realize that you wanted to be a line leader.'");
 		delay(1000);
-		System.out.println("“Sorry, Robbie, next week you’ll be line leader.””);
+		System.out.println("'Sorry, Robbie, next week you’ll be line leader.' ");
 		delay(1000);
-		System.out.println("Yippy! I've never lead anything in my life!”);
+		System.out.println("Yippy! I've never lead anything in my life! ");
 		}
 		else {
 		System.out.println("If you say so...");
@@ -202,15 +205,7 @@ public class LittleHackerThatCould {
 		delay(1000);
 		System.out.println("Why does it have to be dingleweed Robbie?");
 		}
-		delay(1000);
-		System.out.println("");
-		delay(1000);
-	
-	
-	
-	
-	
-	
+		
 	
 	
 	input.close();
