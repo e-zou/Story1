@@ -278,7 +278,7 @@ public class LittleHackerThatCould {
 		delay(1000);
 		System.out.println("You don’t think I’m strange…");
 		delay(1000);
-		System.out.println("Right? Enter 'yes' or 'no': );
+		System.out.println("Right? Enter 'yes' or 'no': ");
 		delay(1000);
 		
 		String answer6 = input.nextLine();
@@ -311,7 +311,6 @@ public class LittleHackerThatCould {
 			System.out.println("Gotta run to class!");
 			delay(1000);
 		}
-
 		System.out.println("{Class in Session}");
 		delay(1000);
 		System.out.println("Well class is officially over.");
@@ -374,7 +373,7 @@ public class LittleHackerThatCould {
 		delay(1000);
 		System.out.println("…");
 		System.out.println("[Just walk away and do what you feel is right] or [He’s right, life is hard]");
-		System.out.printfln("(Type in 'one' for the first option or 'two' for the second option.)");
+		System.out.println("(Type in 'one' for the first option or 'two' for the second option.)");
 
 		String answer7 = input.nextLine();
 		delay(1000);
@@ -398,12 +397,12 @@ public class LittleHackerThatCould {
 			delay(1000);
 			System.out.println("{Little Girl storms off into her room and begins to program}");
 			delay(1000);
-			System.out.println("{Years later, the Little Girl grows up to be a Software engineer at Google.}")
+			System.out.println("{Years later, the Little Girl grows up to be a Software engineer at Google.}");
 			delay(1000);
 			System.out.println("{You allowed her to live out her dreams despite everything}");
 			System.out.println("You allowed her to be her");
 			System.out.println("You can also do whatever it is");
-			System.out.println("So go out there and do it);
+			System.out.println("So go out there and do it");
 			System.out.println("END");
 		}
 		else	
@@ -420,9 +419,8 @@ public class LittleHackerThatCould {
 			delay(1000);
 			System.out.println("… I’m going to lie down for a bit.");
 			delay(1000);
-			System.out.println("{Little Girl is lying down in bed sobbing}")
+			System.out.println("{Little Girl is lying down in bed sobbing}");
 		}
-
 		
 		
 	input.close();
