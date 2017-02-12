@@ -29,7 +29,7 @@ public class LittleHackerThatCould {
 			System.out.println("(even though you’re my own conscience?) -cries-");
 			delay(1000);
 		}
-		System.out.println("It all started in elementary school... ");
+		System.out.println("It all starts this morning... ");
 		delay(1000);
 		System.out.println("It’s my first day of fifth grade and I couldn’t be more happier!");
 		delay(1000);
