@@ -5,9 +5,9 @@ public class LittleHackerThatCould {
 
 	public static void main(String[] args) {
 		// Introduction Scene
-		System.out.println("Hello? Hey, I know you’re there, Consciousness. I could really use your help right now… ");
+		System.out.println("Hello? Hey, I know you're there, Consciousness. I could really use your help right now... ");
 		delay(2000);
-		System.out.println("You see, I haven’t been having a good time. I don’t know what to do anymore.");
+		System.out.println("You see, I haven't been having a good time. I don't know what to do anymore.");
 		delay(2000);
 		System.out.println("Actually, I feel like crying right now. Can you help me sort out my feelings? ");
 		delay(2000);
@@ -21,15 +21,15 @@ public class LittleHackerThatCould {
 		System.out.println("Your answer is " + answer + ".");
 		delay(2000);
 		if (answer.toLowerCase().equals("yes")) {
-			System.out.println("Great! I really appreciate your help. Even if other people don’t understand, ");
+			System.out.println("Great! I really appreciate your help. Even if other people don't understand, ");
 			delay(2000);
 			System.out.println("at least I have you by my side. ");
 			delay(2000);
 		}
 		else {
-			System.out.println("Oh. I see how it is… I guess you’re probably really busy…");
+			System.out.println("Oh. I see how it is... I guess you're probably really busy...");
 			delay(2000);
-			System.out.println("(even though you’re my own conscience?) -cries-");
+			System.out.println("(even though you're my own conscience?) -cries-");
 			delay(2000);
 		}
 		
@@ -40,13 +40,13 @@ public class LittleHackerThatCould {
 		// Tells about this morning
 		System.out.println("It all starts this morning... ");
 		delay(2000);
-		System.out.println("It’s my first day of fifth grade and I couldn’t be more happier!");
+		System.out.println("It's my first day of fifth grade and I couldn't be more happier!");
 		delay(2000);
 		System.out.println("Most of the kids my age have their parents take them to school but my parents are very busy");
 		delay(2000);
 		System.out.println("people so I just walk to school.");
 		delay(2000);
-		System.out.println("It’s not all that bad though!");
+		System.out.println("It's not all that bad though!");
 		delay(2000);
 		System.out.println("I get to see the neighborhood cats!");
 		delay(2000);
@@ -80,15 +80,15 @@ public class LittleHackerThatCould {
 		if (answer1.toLowerCase().equals("yes")) {
 			System.out.println("Because he has a cute white patch on his forehead!");
 			delay(2000);
-			System.out.println("Robbie says that’s a dog name but I don’t care what he says.");
+			System.out.println("Robbie says that's a dog name but I don't care what he says.");
 			delay(2000);
 		}
 		else {
 			System.out.println("Oh.");
 			delay(2000);
-			System.out.println("Well it’s because he has a cute white patch on his forehead!");
+			System.out.println("Well it's because he has a cute white patch on his forehead!");
 			delay(2000);
-			System.out.println("Robbie says that’s a dog name but I don’t care what he says.");
+			System.out.println("Robbie says that's a dog name but I don't care what he says.");
 			delay(2000);
 			System.out.println("I do what I want! {-walks to class-}");
 			delay(5000);
@@ -108,7 +108,7 @@ public class LittleHackerThatCould {
 		delay(2000);
 		
 		// Q2: Encouragement or discouragement?
-		System.out.println("[1: I don’t think that’s scientifically possible] or [2: You’re much faster than that]");
+		System.out.println("[1: I don't think that's scientifically possible] or [2: You're much faster than that]");
 		System.out.println("Type in 'one' for the first option or 2 for the second option.: ");
 		String answer2 = input.nextLine();
 		delay(2000);
@@ -134,15 +134,15 @@ public class LittleHackerThatCould {
 		// Learning how to program
 		System.out.println("Oh!");
 		delay(2000);
-		System.out.println("We’re learning how to program today!");
+		System.out.println("We're learning how to program today!");
 		delay(2000);
 	 	System.out.println("Robbie! We get to learn how to code today!");
 		delay(2000);
-		System.out.println("“Yeah, you suuuurrreeee you’re able to handle that?”");
+		System.out.println("“Yeah, you suuuurrreeee you're able to handle that?”");
 		delay(2000);
 		System.out.println("What do you mean? If I can handle the free lunch, I can handle ANYTHING!");
 		delay(2000);
-		System.out.println("“I don’t know.”");
+		System.out.println("“I don't know.”");
 		delay(2000);
 		System.out.println("“You are a girl.”");
 		delay(2000);
@@ -150,7 +150,7 @@ public class LittleHackerThatCould {
 		delay(2000);
 		System.out.println("Are girls not supposed to do things like this?");
 		delay(2000);
-		System.out.println("[1: Don’t listen to him! Remember, you do what you want!] or [2: I think he’s right]");
+		System.out.println("[1: Don't listen to him! Remember, you do what you want!] or [2: I think he's right]");
 		delay(2000);
 		System.out.println("Type in 'one' for the first option or 'two' for the second option: ");
 		delay(2000);
@@ -163,7 +163,7 @@ public class LittleHackerThatCould {
 		if (answer3.toLowerCase().equals("one")) {
 			System.out.println("Yeah.");
 			delay(2000);
-			System.out.println("Yeah you’re right!");
+			System.out.println("Yeah you're right!");
 			delay(2000);
 			System.out.println("I know exactly what to say to him for saying that! ");
 			delay(2000);
@@ -197,9 +197,9 @@ public class LittleHackerThatCould {
 		delay(2000);
 		
 		// Recess		
-		System.out.println("“Line up children! It’s time for recess!”");
+		System.out.println("'Line up children! It's time for recess!'");
 		delay(2000);
-		System.out.println("“Robbie! It’s your turn to be the line leader.”");
+		System.out.println("'Robbie! It's your turn to be the line leader.'");
 		delay(2000);
 		System.out.println("Hey, I just realized something.");
 		delay(2000);
@@ -219,9 +219,9 @@ public class LittleHackerThatCould {
 		delay(2000);
 		System.out.println("Can I be the line leader this time?");
 		delay(2000);
-		System.out.println("“Oh, I didn’t realize that you wanted to be a line leader.”");
+		System.out.println("'Oh, I didn't realize that you wanted to be a line leader.'");
 		delay(2000);
-		System.out.println("“Sorry, Robbie, next week you’ll be line leader.”");
+		System.out.println("'Sorry, Robbie, next week you'll be line leader.'");
 		delay(2000);
 		System.out.println("Yippy! I've never lead anything in my life! ");
 		}
@@ -237,7 +237,7 @@ public class LittleHackerThatCould {
 		delay(2000);
 		
 		delay(2000);
-		System.out.println("Ah, it’s my favorite time of day besides lunch time!");
+		System.out.println("Ah, it's my favorite time of day besides lunch time!");
 		delay(2000);
 		System.out.println("Recess!");
 		delay(2000);
@@ -249,7 +249,7 @@ public class LittleHackerThatCould {
 		delay(2000);
 		System.out.println("Everyone has Pokemon!");
 		delay(2000);
-		System.out.println("It’s kinda like a bad thing if you don’t play it.");
+		System.out.println("It's kinda like a bad thing if you don't play it.");
 		delay(2000);
 		System.out.println("At least in my eyes.");
 		delay(2000);
@@ -261,7 +261,7 @@ public class LittleHackerThatCould {
 		delay(2000);
 		System.out.println("Hey! Can I join you guys?");
 		delay(2000);
-		System.out.println("'Um…'");
+		System.out.println("'Um...'");
 		delay(2000);
 		System.out.println("'You're a girl...'");
 		delay(2000);
@@ -313,9 +313,9 @@ public class LittleHackerThatCould {
 		// Back to class
 		System.out.println("Well, it's time to go back to class...");
 		delay(2000);
-		System.out.println("I’m a little upset… why do people think I’m so strange for liking the things I like");
+		System.out.println("I'm a little upset... why do people think I'm so strange for liking the things I like");
 		delay(2000);
-		System.out.println("You don’t think I’m strange…");
+		System.out.println("You don't think I'm strange...");
 		delay(2000);
 		System.out.println("Right? Enter 'yes' or 'no': ");
 		delay(2000);
@@ -326,24 +326,24 @@ public class LittleHackerThatCould {
 		System.out.println("Your answer is " + answer6 + ".");
 		delay(2000);
 		if (answer6.toLowerCase().equals("yes")) {
-			System.out.println("Oh…");
+			System.out.println("Oh...");
 			delay(2000);
-			System.out.println("I guess I am a little strange…");
+			System.out.println("I guess I am a little strange...");
 			delay(2000);
-			System.out.println("I… I have to go to class…");
+			System.out.println("I... I have to go to class...");
 			delay(2000);
 		}
 		else
 		{
-			System.out.println("Well you ARE me…");
+			System.out.println("Well you ARE me...");
 			delay(2000);
-			System.out.println("And I think I’m pretty okay…");
+			System.out.println("And I think I'm pretty okay...");
 			delay(2000);
-			System.out.println("At least I think so…");
+			System.out.println("At least I think so...");
 			delay(2000);
-			System.out.println("Thank you…");
+			System.out.println("Thank you...");
 			delay(2000);
-			System.out.println("Even if you are my conscience you seem very positive despite everything that’s happened today");
+			System.out.println("Even if you are my conscience you seem very positive despite everything that's happened today");
 			delay(2000);
 			System.out.println("Whoops!");
 			delay(2000);
@@ -360,11 +360,11 @@ public class LittleHackerThatCould {
 		delay(2000);
 		System.out.println("Well class is officially over.");
 		delay(2000);
-		System.out.println("Mommy still isn’t here…");
+		System.out.println("Mommy still isn't here...");
 		delay(2000);
-		System.out.println("Wonder if she’s working overtime?");
+		System.out.println("Wonder if she's working overtime?");
 		delay(2000);
-		System.out.println("I’m going to put on some headphones and walk over.");
+		System.out.println("I'm going to put on some headphones and walk over.");
 		delay(2000);
 		System.out.println("Catch ya in a bit. ");
 		delay(2000);
@@ -377,13 +377,13 @@ public class LittleHackerThatCould {
 		
 		System.out.println("Oh!");
 		delay(2000);
-		System.out.println("This is odd…");
+		System.out.println("This is odd...");
 		delay(2000);
-		System.out.println("My daddy’s home early from work…");
+		System.out.println("My daddy's home early from work...");
 		delay(2000);
 		System.out.println("Wonder why?");
 		delay(2000);
-		System.out.println("I’m hooooommmmeeeeeeeeeee!!!");
+		System.out.println("I'm hooooommmmeeeeeeeeeee!!!");
 		delay(2000);
 		System.out.println("'Hey. I need to talk to you.'");
 		delay(2000);
@@ -393,7 +393,7 @@ public class LittleHackerThatCould {
 		delay(2000);
 		System.out.println("..Wha?");
 		delay(2000);
-		System.out.println("'You’re not like other girls your age.'");
+		System.out.println("'You're not like other girls your age.'");
 		delay(2000);
 		System.out.println("'Most of them love to draw, sing, wear jewelry, look feminine, ACT feminine.'");
 		delay(3000);
@@ -403,27 +403,27 @@ public class LittleHackerThatCould {
 		delay(2000);
 		System.out.println("'How will you ever get along with girls or guys even if you keep acting this way?'");
 		delay(2000);
-		System.out.println("I just like being… different… you know?");
+		System.out.println("I just like being... different... you know?");
 		delay(2000);
-		System.out.println("And we learned about programming today in school…");
+		System.out.println("And we learned about programming today in school...");
 		delay(2000);
-		System.out.println("It was different… like me.");
+		System.out.println("It was different... like me.");
 		delay(2000);
 		System.out.println("It was like a whole new world and I think I want to-");
 		delay(2000);
-		System.out.println("'You’re going to be a teacher or a nurse. Don’t you dare say you want to program for a living.'");
+		System.out.println("'You're going to be a teacher or a nurse. Don't you dare say you want to program for a living.'");
 		delay(2000);
-		System.out.println("But… why…");
+		System.out.println("But... why...");
 		delay(2000);
 		System.out.println("'Do you know how hard it is for a woman to ever get ahead in that field?'");
 		delay(2000);
-		System.out.println("'The discrimination? It’s not direct but it’s still there.'");
+		System.out.println("'The discrimination? It's not direct but it's still there.'");
 		delay(2000);
-		System.out.println("'You’d be better off in a position more suitable for a woman.'");
+		System.out.println("'You'd be better off in a position more suitable for a woman.'");
 		delay(2000);
-		System.out.println("…");
+		System.out.println("...");
 		delay(2000);
-		System.out.println("[1: Just walk away and do what you feel is right] or [2: He’s right, life is hard]");
+		System.out.println("[1: Just walk away and do what you feel is right] or [2: He's right, life is hard]");
 		System.out.println("(Type in 'one' for the first option or 'two' for the second option.)");
 
 		// Q7: Create a new path or stay?
@@ -433,15 +433,15 @@ public class LittleHackerThatCould {
 		delay(2000);
 		
 		if (answer7.toLowerCase().equals("one")) {
-			System.out.println("Oh…");
+			System.out.println("Oh...");
 			delay(2000);
-			System.out.println("I realize what’s going on… I can’t act like a little girl waiting for something to happen...");
+			System.out.println("I realize what's going on... I can't act like a little girl waiting for something to happen...");
 			delay(2000);
-			System.out.println("Dad, I’m doing what I’m going to do.");
+			System.out.println("Dad, I'm doing what I'm going to do.");
 			delay(2000);
 			System.out.println("And it will be tough.");
 			delay(2000);
-			System.out.println("But I’m going to do what I love.");
+			System.out.println("But I'm going to do what I love.");
 			delay(2000);
 			System.out.println("'No, not under my roof.'");
 			delay(2000);
@@ -463,17 +463,17 @@ public class LittleHackerThatCould {
 		}
 		else	
 		{
-			System.out.println("...Really…");
+			System.out.println("...Really...");
 			delay(2000);
 			System.out.println("...");
 			delay(2000);
-			System.out.println("I guess everyone’s right…");
+			System.out.println("I guess everyone's right...");
 			delay(2000);
-			System.out.println("Maybe I should stop trying to dream about the impossible…");
+			System.out.println("Maybe I should stop trying to dream about the impossible...");
 			delay(2000);
-			System.out.println("Life would be easier if I just did that…");
+			System.out.println("Life would be easier if I just did that...");
 			delay(2000);
-			System.out.println("… I’m going to lie down for a bit.");
+			System.out.println("... I'm going to lie down for a bit.");
 			delay(2000);
 			System.out.println("{Little Girl is lying down in bed sobbing}");
 			delay(2000);
