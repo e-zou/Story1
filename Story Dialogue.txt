@@ -1,0 +1,177 @@
+Starting Dialogue: REFLECTION OF HER LIFE
+
+Hello? Hey, I know you’re there, Consciousness. I could really use your help right now… You see, I haven’t been having a good time. I don’t know what to do anymore. Actually, I feel like crying right now. Can you help me out? 
+
+[User input: Yes or No]
+(If NO - 10 discourage)
+Oh. I see how it is… I guess you’re probably really busy… (even though you’re my own conscience?) -cries-
+(If Yes)
+Great! I really appreciate your help. Even if other people don’t understand, at least I have you by my side. 
+
+Elementary School:
+
+It all started back in elementary school… 
+It’s my first day of fifth grade and I couldn’t be more happier! 
+Most of the kids my age have their parents take them to school but my parents are very busy people so I just walk to school. 
+It’s not all that bad though! 
+I get to see the neighborhood cats! 
+Just gotta get ready 
+{Little girl getting ready (50 minutes)}
+Okay! 
+I had a bit of an issue with my bookbag since I poked a hole in it (again)
+I had to sew it closed since mommy says bookbags are too expensive.
+Always wanted bookbags like my friends had but oh well. 
+Time to go to school! 
+{Little girl is walking 10 minutes}
+You know I named one of the cats Spot?
+Wanna know why? 
+(If YES)
+Because he has a cute white patch on his forehead! 
+Robbie says that’s a dog name but I don’t care what he says
+(if No)
+Oh. 
+Well it’s because he has a cute white patch on his forehead! 
+Robbie says that’s a dog name but I don’t care what he says
+I do what I want! 
+{Little girl is walking 10 minutes}
+Whew! 
+Almost came late to class!
+Luckily I ran and the “pits” didn’t stop me.
+I’m faster than the speed of light! 
+
+If [I don’t think that’s scientifically possible]
+Sure it is! 
+Anything is possible if you just believe 
+My daddy told me that 
+Else [You’re much faster than that]
+Of course I am! 
+How else do I get to class so early even though I sleep so much?
+
+Oh! 
+We’re learning how to program today! 
+Robbie! We get to learn how to code today! 
+“Yeah, you suuuurrreeee you’re able to handle that?”
+What do you mean? If I can handle the free lunch, I can handle ANYTHING 
+“I don’t know.”
+“You are a girl.”
+Oh. 
+Are girls not supposed to do things like this?
+
+[Don’t listen to him! Remember, you do what you want! +10]
+Yeah.
+Yeah you’re right! 
+I know exactly what to say to him for saying that! 
+Robbie?
+“Yeah?”
+You’re not only are you a moron. 
+Your ideas about me are full of joanie baloney macaroni
+“What does that even mean?!”
+Your mom (ah, I loved little kid insults)
+
+[I think he’s right -10]
+Well… I guess he’s right.
+I remember that one time I had to do an essay and the school library’s computer hated me 
+Didn’t let me do a single thing! 
+So, after that time, I hated the dang thing!
+Then again I tell myself that to make me feel better about me napping in front of the computer 
+
+Time to do the programming exercise! Be back in a gif (or is it jif?)
+{Little girl is programming 50 minutes}
+
+WHEW! 
+I don’t know what just happened.
+But the computer spoke to me.
+IT. SPOKE. TO. ME.
+The teacher says it printed what I typed in the printf function onto the console.
+But I know what I saw.
+I swear that computers are alive.
+Do you believe me?
+
+(If yes)
+Of course you do! 
+You are technically me! 
+
+(if no)
+What kind of conscience are you?
+You’re me but you’re not me.
+My daddy used to talk about these things. He called it an existential crisis
+I don’t know what that means but I feel like i’m going to get those a lot 
+Like
+A LOT a lot 
+Which is…
+A lot
+
+“Line up children! It’s time for recess!”
+“Robbie! It’s your turn to be the line leader.”
+Hey, I just realized something. 
+Mr.Hill always chooses boys to be line leaders eevveerrryyy year.
+My friends tell me that a a lot.
+ 
+Should I say something?
+if(YES + 10)
+Teacher! 
+Can I be the line leader this time?
+“Oh, I didn’t realize that you wanted to be a line leader.”
+“Sorry, Robbie, next week you’ll be line leader.”
+“Whatever.”
+Yippy! 
+I’ve never lead anything in my life! 
+Be right back!
+{Little girl is leading 10 minutes}
+
+if(no, don’t say anything)
+If you say so. 
+But I do have a question.
+Why does it have to be dingledweeb Robbie?
+The world may never know! 
+{Little girl is being lead 10 minutes}
+
+Ah, it’s my favorite time of day besides lunch time! 
+Recess! 
+I brought my DS to play with all the guys that usually bring their DS.
+
+[What games do you have?]
+Pokemon! 
+Everyone has Pokemon!
+It’s kinda like a bad thing if you don’t play it.
+At least in my eyes.
+
+[Hmm..]
+
+Oh! 
+Robbie and his friends are playing Pokemon!
+I should probably ask them if I could play too! 
+Hey! Can I join you guys?
+“Um…”
+“You’re a girl...”
+And? What’s wrong with being a girl?
+“We don’t want to… play with you.”
+Why not? Is it because my breathe stinks? Blame it on the mystery meat! Not me! 
+“Girls are so dumb when it comes to games.”
+What do you mean Robbie?
+“My dad says so! Almost all the girls he deals with are so lame! It’s true!”
+Oh…
+
+[You don’t need to play with them! Make Ash proud and become the Pokemon master without them! +10]
+
+Yeah… Yeah you’re right! 
+I don’t need Robbie to be a master! 
+Eat my dust Robbie! I’m going to beat Cynthia all by myself! With or without your Garchomp!
+
+{Little girl is beating Cynthia 20 minutes}
+
+[... -10]
+
+Maybe he’s right… 
+I guess I’ll go play by myself
+
+{Little girl is playing by herself 20 minutes}
+
+
+
+
+
+
+
+
+
