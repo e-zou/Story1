@@ -12,7 +12,7 @@ public class LittleHackerThatCould {
 		System.out.println("Actually, I feel like crying right now. Can you help me out? ");
 		delay(1000);
 		Scanner input = new Scanner(System.in); 
-		System.out.println("Please type in 'yes' or 'no'. : ");
+		System.out.println("Please type in 'yes' or 'no'.: ");
 		String answer = input.nextLine();
 		delay(1000);
 		System.out.println("Your answer is " + answer + ".");
@@ -90,7 +90,7 @@ public class LittleHackerThatCould {
 		System.out.println("I'm faster than the speed of light!");
 		
 		System.out.println("[I don’t think that’s scientifically possible] or [You’re much faster than that]");
-		System.out.println("Type in 'one' for the first option or 2 for the second option.");
+		System.out.println("Type in 'one' for the first option or 2 for the second option.: ");
 		String answer2 = input.nextLine();
 		delay(1000);
 		System.out.println("Your answer is " + answer2 + ".");
@@ -239,7 +239,7 @@ public class LittleHackerThatCould {
 		delay(1000);
 		System.out.println("'We don't want to play with you.'");
 		delay(1000);
-		System.out.println("Why not? Is it because my breathe stinks? ");
+		System.out.println("Why not? Is it because my breath stinks? ");
 		delay(1000);
 		System.out.println("Blame it on the mystery meat! Not me! ");
 		delay(1000);
