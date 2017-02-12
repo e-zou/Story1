@@ -206,8 +206,82 @@ public class LittleHackerThatCould {
 		System.out.println("Why does it have to be dingleweed Robbie?");
 		}
 		
-	
-	
+		delay(1000);
+		System.out.println("Ah, it’s my favorite time of day besides lunch time!");
+		delay(1000);
+		System.out.println("Recess!");
+		delay(1000);
+		System.out.println("I brought my DS to play with all the guys that usually bring their DS.");
+		delay(1000);
+		System.out.println("What games do I have?");
+		delay(1000);
+		System.out.println("Pokemon!");
+		delay(1000);
+		System.out.println("Everyone has Pokemon!");
+		delay(1000);
+		System.out.println("It’s kinda like a bad thing if you don’t play it.");
+		delay(1000);
+		System.out.println("At least in my eyes.");
+		delay(1000);
+		System.out.println("Oh!");
+		delay(1000);
+		System.out.println("Robbie and his friends are playing Pokemon!");
+		delay(1000);
+		System.out.println("AI should probably ask them if I could play too!");
+		delay(1000);
+		System.out.println("Hey! Can I join you guys?");
+		delay(1000);
+		System.out.println("'Um…'");
+		delay(1000);
+		System.out.println("'You're a girl...'");
+		delay(1000);
+		System.out.println("And? What's wrong with being a girl?");
+		delay(1000);
+		System.out.println("'We don't want to play with you.'");
+		delay(1000);
+		System.out.println("Why not? Is it because my breathe stinks? ");
+		delay(1000);
+		System.out.println("Blame it on the mystery meat! Not me! ");
+		delay(1000);
+		System.out.println("What do you mean, Robbie?");
+		delay(1000);
+		System.out.println("'My dad says so! Almost all the girls he deals with are so lame!");
+		delay(1000);
+		System.out.println("Oh...");
+		
+		System.out.println("Enter 'one' if you feel [You don't need to play with them."
+				+ "\n" + "Make Ash proud and become the Pokemon master without them!]" +
+				"\n" + "and 'two' if you feel [like ...;A; crying]: ");
+		String answer5 = input.nextLine();
+		delay(1000);
+		System.out.println("Your answer is " + answer5 + ".");
+		delay(1000);
+		if (answer4.toLowerCase().equals("one")) {
+			System.out.println("Yeah... Yeah you're right!");
+			delay(1000);
+			System.out.println("I don't need Robbie to be a master!");
+			delay(1000);
+			System.out.println("Eat my dust, Robbie! I'm going to beat the gym by myself!!!");
+			delay(1000);
+		}
+		else {
+			delay(1000);
+			System.out.println("Maybe he's right...");
+			delay(1000);
+			System.out.println("I guess I'll go play by myself...");
+			delay(1000);
+		}
+		
+		System.out.println("Well, it's time to go back to class...");
+		delay(1000);
+		System.out.println("I’m a little upset… why do people think I’m so strange for liking the things I like");
+		delay(1000);
+		System.out.println("You don’t think I’m strange…");
+		delay(1000);
+		System.out.println("Right?");
+		delay(1000);
+		
+		
 	input.close();
 	}
 	
